@@ -9,6 +9,7 @@ public class GitPracticeRun {
 		System.out.println("추가 1");
 		System.out.println("추가 2");
 		System.out.println("추가 3");
+		System.out.println("추가한 내용 0001");
 	}
 
 }
